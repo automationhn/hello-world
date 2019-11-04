@@ -15,3 +15,5 @@ n3: adding new line
 function CombineName() {
     return 'ABC';
 }
+
+add abc
